@@ -2,8 +2,27 @@
   font-weight: bold;
   text-decoration: underline;
 }
-img.me {
-  float: right;
+img#me {
+  float: left;
   width: 200px;
   height: 300px;
+}
+.Jumbotron {
+  border: 2px solid red;
+  padding: 4px;
+}
+.panel-success {
+  background-color: tan;
+}
+.center {
+  text-align: center;
+}
+.green {
+  color: green;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.red p h3 li {
+  color: red;
 }
