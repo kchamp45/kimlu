@@ -10,6 +10,7 @@ img#me {
 .Jumbotron {
   border: 2px solid red;
   padding: 4px;
+  background-color: #e6ffff;
 }
 .panel-success {
   background-color: tan;
@@ -23,6 +24,10 @@ img#me {
   font-size: 1.2em;
 }
 
-.red p h3 li {
+.red p {
   color: red;
+}
+
+.blue h3 {
+  color: blue;
 }
