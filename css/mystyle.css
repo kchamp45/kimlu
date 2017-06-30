@@ -29,7 +29,6 @@ img#me {
   font-weight: bold;
   font-size: 1.2em;
 }
-
 .red p {
   color: red;
   font-family: Times;
@@ -38,11 +37,9 @@ img#me {
   color: brown;
   font-size: 1.5em;
 }
-
 .blue {
   color: blue;
 }
-
 #emphasize {
   font-style: italic;
   font-family: courier;
