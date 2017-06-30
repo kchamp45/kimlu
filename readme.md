@@ -17,11 +17,11 @@ This webpage highlights information about Kimberly Lu. It contains a picture of 
 
 ## Known Bugs
 
-_There are no know bugs at this time, but please report any bugs you encounter via the contact information provided below._
+There are no know bugs at this time, but please report any bugs you encounter via the contact information provided below.
 
 ## Support and contact details
 
-If you should run into any problem accessing this webpage, please do the following before contacting our support team.  First, close all active windows on your computer screen. Then restart your browser. Finally, cut and paste the [kim lu] (https://kchamp45.github.io/kimlu) and push enter.  If you should continue to experience problems, please do not hesitate to reach us by [click here] ( klu@yahoo.com).
+If you should run into any problem accessing this webpage, please do the following before contacting our support team.  First, close all active windows on your computer screen. Then restart your browser. Finally, cut and paste the [kim lu] (https://kchamp45.github.io/kimlu) and push enter.  If you should continue to experience problems, please do not hesitate to reach us by [click here] (klu@yahoo.com).
 
 ## Technologies Used
 
@@ -29,6 +29,6 @@ HTML, CSS, Bootstrap, Atom, Git, GitHub
 
 ### License
 
-_*This project is open to use under the GPL license*_
+_*This project is open to use under the GPL license.*_
 
 Copyright (c) 2016 **_Kimberly Lu_**
