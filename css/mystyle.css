@@ -11,6 +11,7 @@ img#me {
   border: 2px solid red;
   padding: 4px;
   background-color: #e6ffff;
+  text-align: center;
 }
 .panel-success {
   background-color: tan;
@@ -26,6 +27,11 @@ img#me {
 
 .red p {
   color: red;
+  font-family: Times;
+}
+.red p a {
+  color: brown;
+  font-size: 1.5em;
 }
 
 .blue {
